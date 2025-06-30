@@ -2,7 +2,6 @@
  **📍Tirunelveli,Tamilnadu**<br>
  **📧Email:[swethaanbu2006@gmail.com](mailto:swethaanbu2006@gmail.com)**
 
-
 🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.
 
 🌱 I'm on a learning journey to become a **skilled web developer**.  
