@@ -1,5 +1,5 @@
-# 💫 Swetha Anbazhagan:
-### 👋 Hello there! I'm Swetha
+#  Swetha Anbazhagan
+### 📍Tirunelveli,Tamilnadu
 
 🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.
 
