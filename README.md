@@ -6,15 +6,11 @@
 🌱 I'm on a learning journey to become a **skilled web developer**.  
 I'm especially interested in adding **unique and interactive features** to my web projects to make them more engaging and user-friendly.
 
----
 
 ### 💻 Technologies I'm Learning:
 - **C Programming** (with focus on Data Structures)
 - **Python Basics**
-- **Django Framework**
-- **UI/UX Design**
 
----
 
 ### 💡 Ask Me About:
 - Basic and advanced **C concepts**
@@ -22,24 +18,14 @@ I'm especially interested in adding **unique and interactive features** to my we
 - Concepts of **Software Engineering**
 - Basics of **UI and UX Design**
 
----
 
 ### 🌐 Portfolio / Blog:
 *Coming soon...*
 
----
-
 ### ✨ Fun Fact:
 I'm an active member of the **Saveetha Literary Club**, where I contribute content for the college **magazine**! ✍️📖
 
----
-
-### 📊 GitHub Stats:
-[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
-
----
-
-> “Code is like poetry — when it flows, it's beautiful.”
+“Code is like poetry — when it flows, it's beautiful.”
 
 
 
