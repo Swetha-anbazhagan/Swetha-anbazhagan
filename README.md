@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Swetha Anbazhagan:
 ### 👋 Hello there! I'm Swetha
 
 🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.
