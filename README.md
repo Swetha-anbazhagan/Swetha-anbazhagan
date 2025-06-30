@@ -7,8 +7,7 @@
 ### ✨About me:
 🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.
 
-🌱 I'm on a learning journey to become a **skilled web developer**.  
-I'm especially interested in adding **unique and interactive features** to my web projects to make them more engaging and user-friendly.
+🌱 I'm on a learning journey to become a **skilled web developer**.I'm especially interested in adding **unique and interactive features** to my web projects to make them more engaging and user-friendly.
 
 
 ### 💻 Technologies I'm Learning:
