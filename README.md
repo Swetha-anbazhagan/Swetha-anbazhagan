@@ -1,5 +1,47 @@
 # 💫 About Me:
-**👋 Hello there! I'm Swetha**<br><br>🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.<br><br>🌱 I'm on a learning journey to become a **skilled web developer**.<br>I'm especially interested in adding **unique and interactive features** to my web projects to make them more engaging and user-friendly.<br><br>**💻 Technologies I'm Learning:**<br> C Programming (with focus on Data Structures)<br>Python Basics<br>Django Framework<br>UI/UX Design<br><br><br><br>**💡 Ask Me About:**<br><br>* Basic and advanced C concepts<br>* Getting started with Django<br>Concepts of Software Engineering<br>Basics of UI and UX Design<br><br><br><br>**🌐 Portfolio / Blog:**<br>Coming soon...<br><br>---<br><br>**✨ Fun Fact:**<br>I'm an active member of the **Saveetha Literary Club**, where I contribute content for the college **magazine**! ✍️📖<br><br><br><br><br>> “Code is like poetry — when it flows, it's beautiful.”<br><br><br><br><br><br>
+### 👋 Hello there! I'm Swetha
+
+🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.
+
+🌱 I'm on a learning journey to become a **skilled web developer**.  
+I'm especially interested in adding **unique and interactive features** to my web projects to make them more engaging and user-friendly.
+
+---
+
+### 💻 Technologies I'm Learning:
+- **C Programming** (with focus on Data Structures)
+- **Python Basics**
+- **Django Framework**
+- **UI/UX Design**
+
+---
+
+### 💡 Ask Me About:
+- Basic and advanced **C concepts**
+- Getting started with **Django**
+- Concepts of **Software Engineering**
+- Basics of **UI and UX Design**
+
+---
+
+### 🌐 Portfolio / Blog:
+*Coming soon...*
+
+---
+
+### ✨ Fun Fact:
+I'm an active member of the **Saveetha Literary Club**, where I contribute content for the college **magazine**! ✍️📖
+
+---
+
+### 📊 GitHub Stats:
+[![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
+
+---
+
+> “Code is like poetry — when it flows, it's beautiful.”
+
+
 
 
 ## 🌐 Socials:
