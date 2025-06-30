@@ -1,6 +1,6 @@
 #  Swetha Anbazhagan
  **📍Tirunelveli,Tamilnadu**<br>
- **📧Email:[swethaanbu2006@gmail.com](mailto:swethaanbu2006@gmail.com)**
+ **📧Email:[swethaanbu2006@gmail.com](mailto:swethaanbu2006@gmail.com)**<br>
  **🌐LinkedIn|Github|leetcode|Hackerrank|**
 
 🎓 I'm currently pursuing my **B.E in Computer Science** at **Saveetha Engineering College**.
