@@ -22,16 +22,6 @@
 - Basics of **UI and UX Design**
 
 
-### 🌐 Portfolio / Blog:
-*Coming soon...*
-
-### ✨ Fun Fact:
-I'm an active member of the **Saveetha Literary Club**, where I contribute content for the college **magazine**! ✍️📖
-
-“Code is like poetry — when it flows, it's beautiful.”
-
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-anbazhagan-646b89327/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/swethaanbu2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swethaanbu2006@gmail.com) 
